@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Noxmods
-- [<img align="left" alt="vibhorchaudhary | Discord" width="22px" src="https://www.designtagebuch.de/wp-content/uploads/mediathek//2021/05/discord-logo.jpg" />][Discord]
+- <img align="left" alt="vibhorchaudhary | Discord" width="22px" src="https://img.icons8.com/clouds/100/000000/discord-logo.png" />][Discord]
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
