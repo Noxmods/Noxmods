@@ -47,8 +47,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sekundegibtesnicht/sekundegibtesnicht/output/snake.svg" alt="Snake animation" />
-
-###
