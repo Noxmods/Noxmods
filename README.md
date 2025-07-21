@@ -17,23 +17,15 @@ IDK WHAT I DO
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sekundegibtesnicht&icon=0&color=0)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sekundegibtesnicht/sekundegibtesnicht/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sekundegibtesnicht/sekundegibtesnicht/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sekundegibtesnicht/sekundegibtesnicht/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br clear="both">
 
-<div align="left">
-  <a href="https://www.behance.net/wolfihd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="47" height="35" alt="behance logo"  />
-  </a>
-  <a href="https://www.twitch.tv/sekundegibtesnicht" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://guns.lol/sekundegibtes" target="_blank">
-    <img src="https://assets.guns.lol/guns_logo_no_background_cropped.png" width="47" height="35" alt="twitch logo"  />
-  </a>
-</div>
 
 ###
 
