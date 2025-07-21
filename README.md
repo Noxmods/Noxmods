@@ -17,7 +17,7 @@ IDK WHAT I DO
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sekundegibtesnicht/sekundegibtesnicht/output/pacman-contribution-graph.svg">
 </picture>
 
----
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sekundegibtesnicht/sekundegibtesnicht/output/pacman-contribution-graph-dark.svg">
@@ -25,12 +25,5 @@ IDK WHAT I DO
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sekundegibtesnicht/sekundegibtesnicht/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-###
 
